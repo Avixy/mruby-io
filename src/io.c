@@ -17,6 +17,7 @@
 #include "mruby/error.h"
 #endif
 
+#include <sys/select.h>
 #include <sys/types.h>
 #include <sys/stat.h>
 
